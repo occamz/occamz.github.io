@@ -1,1 +1,0 @@
-# occamz.github.io

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on oeksound</title>
+    <link>https://oeksound.com/support/test/</link>
+    <description>Recent content in Test on oeksound</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Feb 2018 13:57:19 +0000</lastBuildDate>
+    
+	<atom:link href="https://oeksound.com/support/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://oeksound.com/articles/test/</link>
+      <pubDate>Fri, 02 Feb 2018 13:57:19 +0000</pubDate>
+      
+      <guid>https://oeksound.com/articles/test/</guid>
+      <description>H1 H2 H3 H4 H5 H6 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Test article</title>
+      <link>https://oeksound.com/articles/test-article/</link>
+      <pubDate>Fri, 02 Feb 2018 13:57:19 +0000</pubDate>
+      
+      <guid>https://oeksound.com/articles/test-article/</guid>
+      <description>Some text! A</description>
+    </item>
+    
+  </channel>
+</rss>

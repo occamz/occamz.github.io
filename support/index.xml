@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Support on oeksound</title>
+    <link>https://oeksound.com/support/</link>
+    <description>Recent content in Support on oeksound</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://oeksound.com/support/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://oeksound.com/support/test/</link>
+      <pubDate>Fri, 02 Feb 2018 13:57:19 +0000</pubDate>
+      
+      <guid>https://oeksound.com/support/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Update</title>
+      <link>https://oeksound.com/support/update/</link>
+      <pubDate>Fri, 02 Feb 2018 13:57:19 +0000</pubDate>
+      
+      <guid>https://oeksound.com/support/update/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

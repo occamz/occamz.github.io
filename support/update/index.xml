@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Update on oeksound</title>
+    <link>https://oeksound.com/support/update/</link>
+    <description>Recent content in Update on oeksound</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Feb 2018 13:57:19 +0000</lastBuildDate>
+    
+	<atom:link href="https://oeksound.com/support/update/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How do I upgrade soothe from 1.0.7 to 1.1.0 or later? Is it a free update?</title>
+      <link>https://oeksound.com/articles/how-do-i-upgrade-soothe/</link>
+      <pubDate>Fri, 02 Feb 2018 13:57:19 +0000</pubDate>
+      
+      <guid>https://oeksound.com/articles/how-do-i-upgrade-soothe/</guid>
+      <description>The update 1.1.0 for soothe is a free update, so no need for upgrade.
+Just download the new version from here and install, your existing license has already been deployed. You can activate the plugin by logging into new license manager web app by using the same credential you&amp;rsquo;ve last used to activate the plugin. If you need to change your password, please use the lost password functionality in the license manager web app.</description>
+    </item>
+    
+  </channel>
+</rss>

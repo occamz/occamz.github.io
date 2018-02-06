@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>oeksound</title>
+    <link>https://oeksound.com/</link>
+    <description>Recent content on oeksound</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Feb 2018 13:57:19 +0000</lastBuildDate>
+    
+	<atom:link href="https://oeksound.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Greg Wells</title>
+      <link>https://oeksound.com/testimonials/greg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oeksound.com/testimonials/greg/</guid>
+      <description>Microphones are unnatural things and can bring out overtones in the voice that the listener wouldn’t normally be bothered by. I’m always battling to make the music sound like real music coming through the unforgiving speakers, and routinely spend at least an hour automating EQ on individual syllables on a lead vocal.
+soothe is a magic wand for lead vocals. It keeps all the voice and takes away the harsh anomalies of what happens when you put a microphone a few centimeters away from a singer’s mouth.</description>
+    </item>
+    
+    <item>
+      <title>Henkka Niemistö</title>
+      <link>https://oeksound.com/testimonials/henkka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oeksound.com/testimonials/henkka/</guid>
+      <description>soothe, the first plugin in a while to find its place in my otherwise analog mastering signal chain.</description>
+    </item>
+    
+    <item>
+      <title>Stefan</title>
+      <link>https://oeksound.com/testimonials/stefan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oeksound.com/testimonials/stefan/</guid>
+      <description>soothe is like magic, removes those nasty peaks and annoying frequencies you spend so much time trying to remove.
+I wish I had this tool back when I mixed the talkbox for One Smile. One weeks job cut down to just minutes.
+Also, apply soothe to cymbals to make them less ringing and easier to fit into the mix.</description>
+    </item>
+    
+    <item>
+      <title>Aiko Rohd</title>
+      <link>https://oeksound.com/testimonials/aiko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oeksound.com/testimonials/aiko/</guid>
+      <description>soothe is a true gem. It&amp;rsquo;s been a tremendous timesaver during my production process - especially during vocal production and mixing, but it also shines on numerous other sounds.
+soothe does with ease what used to take hours and hours of tweaking. It manages to stay true to the original character of a signal while removing unpleasant resonances in a very musical way - and all of that dynamically, on an unlimited number of bands, in real time.</description>
+    </item>
+    
+    <item>
+      <title>Michalis &#34;MsM&#34; Michael</title>
+      <link>https://oeksound.com/testimonials/michael/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oeksound.com/testimonials/michael/</guid>
+      <description>soothe A plugin that dynamically notches out problem frequencies and resonances - genius.</description>
+    </item>
+    
+    <item>
+      <title>Chris Shaw</title>
+      <link>https://oeksound.com/testimonials/chris/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oeksound.com/testimonials/chris/</guid>
+      <description>I’ve been waiting years for someone to design a plugin that does what soothe does. Dynamic EQs and soft saturators never seem to do the job in a musical way and required a lot of tweaking and fussing. soothe does in minutes what used to take hours. This plugin will pay for itself very quickly in time saved.</description>
+    </item>
+    
+    <item>
+      <title>How do I upgrade soothe from 1.0.7 to 1.1.0 or later? Is it a free update?</title>
+      <link>https://oeksound.com/articles/how-do-i-upgrade-soothe/</link>
+      <pubDate>Fri, 02 Feb 2018 13:57:19 +0000</pubDate>
+      
+      <guid>https://oeksound.com/articles/how-do-i-upgrade-soothe/</guid>
+      <description>The update 1.1.0 for soothe is a free update, so no need for upgrade.
+Just download the new version from here and install, your existing license has already been deployed. You can activate the plugin by logging into new license manager web app by using the same credential you&amp;rsquo;ve last used to activate the plugin. If you need to change your password, please use the lost password functionality in the license manager web app.</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://oeksound.com/articles/test/</link>
+      <pubDate>Fri, 02 Feb 2018 13:57:19 +0000</pubDate>
+      
+      <guid>https://oeksound.com/articles/test/</guid>
+      <description>H1 H2 H3 H4 H5 H6 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Test article</title>
+      <link>https://oeksound.com/articles/test-article/</link>
+      <pubDate>Fri, 02 Feb 2018 13:57:19 +0000</pubDate>
+      
+      <guid>https://oeksound.com/articles/test-article/</guid>
+      <description>Some text! A</description>
+    </item>
+    
+    <item>
+      <title>Privacy policy</title>
+      <link>https://oeksound.com/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oeksound.com/privacy-policy/</guid>
+      <description>This Privacy Policy governs the manner in which oeksound collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.oeksound.com website (“Site”). This privacy policy applies to the Site and all products and services offered by oeksound.
+Personal identification information We may collect personal identification information from Users in a variety of ways and circumstances, including, but not limited to, when Users visit our Site, register on the Site, place an order, subscribe to the newsletter, respond to a survey, or fill out a form, and in connection with other activities, services, features or resources we make available on our Site.</description>
+    </item>
+    
+    <item>
+      <title>ehtoos</title>
+      <link>https://oeksound.com/plugins/ehtoos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oeksound.com/plugins/ehtoos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soothe</title>
+      <link>https://oeksound.com/downloads/soothe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oeksound.com/downloads/soothe/</guid>
+      <description>Fully functional 20-day trial is included with soothe. To try soothe on your system, just download the most recent version for your platform and choose to start trial from the plugin. Trial can also be activated offline.
+Public beta Mac 1.1.4 (public beta) 
+Windows 1.1.4 (public beta) 
+Some disclaimer here
+ Legacy version Mac 1.0.7 (legacy) 
+Windows 1.0.7 (legacy) 
+soothe versions 1.0.7 and older use legacy system for license management.</description>
+    </item>
+    
+    <item>
+      <title>soothe</title>
+      <link>https://oeksound.com/plugins/soothe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oeksound.com/plugins/soothe/</guid>
+      <description>soothe audio processor Dynamic resonance suppressor for mid and high frequencies
+soothe is our first release in the line of modern audio processors by oeksound. Originally designed as vocal processor, the plugin gives you the perfect, in control, world class vocal sound you’ve been striving for, with unmatched ease.
+So long, notching soothe is a dynamic equaliser with self-adjusting frequency bands. Unlike traditional EQ-tools, soothe analyses the signal on the fly and adjusts the frequency-wise reduction based on the input.</description>
+    </item>
+    
+  </channel>
+</rss>
