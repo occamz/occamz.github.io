@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article on oeksound</title>
-    <link>https://oeksound.com/articles/</link>
+    <link>https://occamz.github.io/articles/</link>
     <description>Recent content in Article on oeksound</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Feb 2018 13:57:19 +0000</lastBuildDate>
     
-	<atom:link href="https://oeksound.com/articles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://occamz.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How do I upgrade soothe from 1.0.7 to 1.1.0 or later? Is it a free update?</title>
-      <link>https://oeksound.com/articles/how-do-i-upgrade-soothe/</link>
+      <link>https://occamz.github.io/articles/how-do-i-upgrade-soothe/</link>
       <pubDate>Fri, 02 Feb 2018 13:57:19 +0000</pubDate>
       
-      <guid>https://oeksound.com/articles/how-do-i-upgrade-soothe/</guid>
+      <guid>https://occamz.github.io/articles/how-do-i-upgrade-soothe/</guid>
       <description>The update 1.1.0 for soothe is a free update, so no need for upgrade.
 Just download the new version from here and install, your existing license has already been deployed. You can activate the plugin by logging into new license manager web app by using the same credential you&amp;rsquo;ve last used to activate the plugin. If you need to change your password, please use the lost password functionality in the license manager web app.</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://oeksound.com/articles/test/</link>
+      <link>https://occamz.github.io/articles/test/</link>
       <pubDate>Fri, 02 Feb 2018 13:57:19 +0000</pubDate>
       
-      <guid>https://oeksound.com/articles/test/</guid>
+      <guid>https://occamz.github.io/articles/test/</guid>
       <description>H1 H2 H3 H4 H5 H6 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Test article</title>
-      <link>https://oeksound.com/articles/test-article/</link>
+      <link>https://occamz.github.io/articles/test-article/</link>
       <pubDate>Fri, 02 Feb 2018 13:57:19 +0000</pubDate>
       
-      <guid>https://oeksound.com/articles/test-article/</guid>
+      <guid>https://occamz.github.io/articles/test-article/</guid>
       <description>Some text! A</description>
     </item>
     

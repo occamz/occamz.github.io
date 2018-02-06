@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plugins on oeksound</title>
-    <link>https://oeksound.com/plugins/</link>
+    <link>https://occamz.github.io/plugins/</link>
     <description>Recent content in Plugins on oeksound</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://oeksound.com/plugins/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://occamz.github.io/plugins/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ehtoos</title>
-      <link>https://oeksound.com/plugins/ehtoos/</link>
+      <link>https://occamz.github.io/plugins/ehtoos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oeksound.com/plugins/ehtoos/</guid>
+      <guid>https://occamz.github.io/plugins/ehtoos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>soothe</title>
-      <link>https://oeksound.com/plugins/soothe/</link>
+      <link>https://occamz.github.io/plugins/soothe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oeksound.com/plugins/soothe/</guid>
+      <guid>https://occamz.github.io/plugins/soothe/</guid>
       <description>soothe audio processor Dynamic resonance suppressor for mid and high frequencies
 soothe is our first release in the line of modern audio processors by oeksound. Originally designed as vocal processor, the plugin gives you the perfect, in control, world class vocal sound you’ve been striving for, with unmatched ease.
 So long, notching soothe is a dynamic equaliser with self-adjusting frequency bands. Unlike traditional EQ-tools, soothe analyses the signal on the fly and adjusts the frequency-wise reduction based on the input.</description>

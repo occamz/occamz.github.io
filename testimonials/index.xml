@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Testimonials on oeksound</title>
-    <link>https://oeksound.com/testimonials/</link>
+    <link>https://occamz.github.io/testimonials/</link>
     <description>Recent content in Testimonials on oeksound</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://oeksound.com/testimonials/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://occamz.github.io/testimonials/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Greg Wells</title>
-      <link>https://oeksound.com/testimonials/greg/</link>
+      <link>https://occamz.github.io/testimonials/greg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oeksound.com/testimonials/greg/</guid>
+      <guid>https://occamz.github.io/testimonials/greg/</guid>
       <description>Microphones are unnatural things and can bring out overtones in the voice that the listener wouldn’t normally be bothered by. I’m always battling to make the music sound like real music coming through the unforgiving speakers, and routinely spend at least an hour automating EQ on individual syllables on a lead vocal.
 soothe is a magic wand for lead vocals. It keeps all the voice and takes away the harsh anomalies of what happens when you put a microphone a few centimeters away from a singer’s mouth.</description>
     </item>
     
     <item>
       <title>Henkka Niemistö</title>
-      <link>https://oeksound.com/testimonials/henkka/</link>
+      <link>https://occamz.github.io/testimonials/henkka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oeksound.com/testimonials/henkka/</guid>
+      <guid>https://occamz.github.io/testimonials/henkka/</guid>
       <description>soothe, the first plugin in a while to find its place in my otherwise analog mastering signal chain.</description>
     </item>
     
     <item>
       <title>Stefan</title>
-      <link>https://oeksound.com/testimonials/stefan/</link>
+      <link>https://occamz.github.io/testimonials/stefan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oeksound.com/testimonials/stefan/</guid>
+      <guid>https://occamz.github.io/testimonials/stefan/</guid>
       <description>soothe is like magic, removes those nasty peaks and annoying frequencies you spend so much time trying to remove.
 I wish I had this tool back when I mixed the talkbox for One Smile. One weeks job cut down to just minutes.
 Also, apply soothe to cymbals to make them less ringing and easier to fit into the mix.</description>
@@ -42,29 +42,29 @@ Also, apply soothe to cymbals to make them less ringing and easier to fit into t
     
     <item>
       <title>Aiko Rohd</title>
-      <link>https://oeksound.com/testimonials/aiko/</link>
+      <link>https://occamz.github.io/testimonials/aiko/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oeksound.com/testimonials/aiko/</guid>
+      <guid>https://occamz.github.io/testimonials/aiko/</guid>
       <description>soothe is a true gem. It&amp;rsquo;s been a tremendous timesaver during my production process - especially during vocal production and mixing, but it also shines on numerous other sounds.
 soothe does with ease what used to take hours and hours of tweaking. It manages to stay true to the original character of a signal while removing unpleasant resonances in a very musical way - and all of that dynamically, on an unlimited number of bands, in real time.</description>
     </item>
     
     <item>
       <title>Michalis &#34;MsM&#34; Michael</title>
-      <link>https://oeksound.com/testimonials/michael/</link>
+      <link>https://occamz.github.io/testimonials/michael/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oeksound.com/testimonials/michael/</guid>
+      <guid>https://occamz.github.io/testimonials/michael/</guid>
       <description>soothe A plugin that dynamically notches out problem frequencies and resonances - genius.</description>
     </item>
     
     <item>
       <title>Chris Shaw</title>
-      <link>https://oeksound.com/testimonials/chris/</link>
+      <link>https://occamz.github.io/testimonials/chris/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oeksound.com/testimonials/chris/</guid>
+      <guid>https://occamz.github.io/testimonials/chris/</guid>
       <description>I’ve been waiting years for someone to design a plugin that does what soothe does. Dynamic EQs and soft saturators never seem to do the job in a musical way and required a lot of tweaking and fussing. soothe does in minutes what used to take hours. This plugin will pay for itself very quickly in time saved.</description>
     </item>
     
